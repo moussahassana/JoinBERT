@@ -1,0 +1,2 @@
+Fill the address field with jane.doe@example.com.
+Select the 'Female' option from the gender dropdown (Male, Female, Other)
